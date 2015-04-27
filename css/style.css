@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+@import url(http://fonts.googleapis.com/css?family=VT323);
+
+body {
+  background-color: #44555F;
+}
+
+h1, h2{
+  color: #FFF;
+  font-family: 'Pacifico', cursive;
+}
+
+footer {
+  font-size: 15px;
+  color: #FFF;
+  text-align: center;
+}
+
+p {
+  color: #FFF;
+  font-size: 20px;
+  font-family: 'VT323';
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+ul ol {
+  color: #FFF;
+  text-align: center;
+}
+
+label {
+  color: #FFF;
+  font-family: 'VT323';
+  font-size: 20px;
+}
+
+.title{
+  display: inline-block;
+}
